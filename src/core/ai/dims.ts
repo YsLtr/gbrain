@@ -137,6 +137,8 @@ export function isValidPerplexityDim(modelId: string, dims: number): boolean {
 const NVIDIA_EMBEDDING_DIMS: Record<string, number> = {
   'nvidia/nv-embedqa-e5-v5': 1024,
   'nvidia/llama-nemotron-embed-1b-v2': 2048,
+  'nvidia/nemotron-3-embed-1b': 2048,
+  'nemotron-3-embed-1b': 2048,
   'nvidia/nv-embed-v1': 4096,
   'nvidia/nv-embedcode-7b-v1': 4096,
 };

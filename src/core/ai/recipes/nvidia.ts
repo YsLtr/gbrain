@@ -26,6 +26,7 @@ export const nvidia: Recipe = {
   aliases: {
     'nv-embedqa-e5-v5': 'nvidia/nv-embedqa-e5-v5',
     'llama-nemotron-embed-1b-v2': 'nvidia/llama-nemotron-embed-1b-v2',
+    'nemotron-3-embed-1b': 'nvidia/nemotron-3-embed-1b',
     'nemotron-3-super': 'nvidia/nemotron-3-super-120b-a12b',
     'nemotron-3-super-120b-a12b': 'nvidia/nemotron-3-super-120b-a12b',
     'nv-embed-v1': 'nvidia/nv-embed-v1',
